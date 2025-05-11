@@ -1,0 +1,8 @@
+alembic
+beautifulsoup4
+lxml
+python-dotenv
+requests
+requests-futures
+ruff
+sqlalchemy
